@@ -1,0 +1,9 @@
+2024-54-10/15/24 11:54:10 INFO ====== WebDriver manager ======
+2024-54-10/15/24 11:54:14 INFO Get LATEST chromedriver version for google-chrome
+2024-54-10/15/24 11:54:15 INFO Get LATEST chromedriver version for google-chrome
+2024-54-10/15/24 11:54:15 INFO Driver [C:\Users\Enigma.DESKTOP-2B0LCP9\.wdm\drivers\chromedriver\win64\129.0.6668.100\chromedriver-win32/chromedriver.exe] found in cache
+2024-54-10/15/24 11:54:18 INFO Test 1 Starting
+2024-54-10/15/24 11:54:23 INFO Sent test to element //*[@id="login"]/div[1]/label/input
+2024-54-10/15/24 11:54:23 INFO Sent test to element //*[@id="login"]/div[2]/label/input
+2024-54-10/15/24 11:54:24 INFO Click login button
+2024-54-10/15/24 11:54:25 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2

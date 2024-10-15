@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+wait: 3
+username: qalex07
+password: 1837e1afbe
+post_title: "1111111111111"
+post_description: "222222222222"
+post_content: "333333333333333"
