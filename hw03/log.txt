@@ -1,0 +1,28 @@
+2024-01-10/15/24 15:01:15 INFO ====== WebDriver manager ======
+2024-01-10/15/24 15:01:19 INFO Get LATEST chromedriver version for google-chrome
+2024-01-10/15/24 15:01:19 INFO Get LATEST chromedriver version for google-chrome
+2024-01-10/15/24 15:01:20 INFO Driver [C:\Users\Enigma.DESKTOP-2B0LCP9\.wdm\drivers\chromedriver\win64\129.0.6668.100\chromedriver-win32/chromedriver.exe] found in cache
+2024-01-10/15/24 15:01:22 INFO Test 1 Starting
+2024-01-10/15/24 15:01:28 INFO Sent test to element //*[@id="login"]/div[1]/label/input
+2024-01-10/15/24 15:01:28 INFO Sent test to element //*[@id="login"]/div[2]/label/input
+2024-01-10/15/24 15:01:28 INFO Click login button
+2024-01-10/15/24 15:01:30 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-01-10/15/24 15:01:30 INFO Test 2 Starting
+2024-01-10/15/24 15:01:30 INFO Sent qalex07 to element //*[@id="login"]/div[1]/label/input
+2024-01-10/15/24 15:01:30 INFO Sent 1837e1afbe to element //*[@id="login"]/div[2]/label/input
+2024-01-10/15/24 15:01:30 INFO Click login button
+2024-01-10/15/24 15:01:33 INFO We find text Hello, Hello, qalex07 on open page ('xpath', '//*[@id="app"]/main/nav/ul/li[3]/a')
+2024-01-10/15/24 15:01:33 INFO Test 3 Starting
+2024-01-10/15/24 15:01:33 INFO Click create post button
+2024-01-10/15/24 15:01:34 INFO Send Title DZ03 to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2024-01-10/15/24 15:01:34 INFO Send Description DZ03 to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2024-01-10/15/24 15:01:34 INFO Send Content DZ03 to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2024-01-10/15/24 15:01:35 INFO Click save post button
+2024-01-10/15/24 15:01:37 INFO We find title 'Title DZ03' on open page //*[@id="app"]/main/div/div[1]/h1
+2024-01-10/15/24 15:01:37 INFO Test 4 Starting
+2024-01-10/15/24 15:01:37 INFO Click create contact
+2024-01-10/15/24 15:01:37 INFO Send Alexander to element //*[@id="contact"]/div[1]/label/input
+2024-01-10/15/24 15:01:38 INFO Send qalex68@gmail.com to element //*[@id="contact"]/div[2]/label/input
+2024-01-10/15/24 15:01:38 INFO Send You message DZ03 to element //*[@id="contact"]/div[3]/label/span/textarea
+2024-01-10/15/24 15:01:39 INFO Click submit contact
+2024-01-10/15/24 15:01:44 INFO We find text Form successfully submitted in alert
