@@ -1,0 +1,9 @@
+2024-04-10/20/24 11:04:09 INFO ====== WebDriver manager ======
+2024-04-10/20/24 11:04:13 INFO Get LATEST chromedriver version for google-chrome
+2024-04-10/20/24 11:04:13 INFO Get LATEST chromedriver version for google-chrome
+2024-04-10/20/24 11:04:13 INFO Driver [C:\Users\Enigma.DESKTOP-2B0LCP9\.wdm\drivers\chromedriver\win64\129.0.6668.100\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-10/20/24 11:04:16 INFO Test 1 Starting
+2024-04-10/20/24 11:04:23 INFO Test 2 Starting
+2024-04-10/20/24 11:04:26 INFO Test 3 Starting
+2024-04-10/20/24 11:04:31 INFO Test 4 Starting
+2024-04-10/20/24 11:04:36 INFO We find text Form successfully submitted in alert
