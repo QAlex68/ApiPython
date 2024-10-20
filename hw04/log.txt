@@ -1,0 +1,12 @@
+2024-36-10/20/24 13:36:57 INFO Test 0-1 API Starting
+2024-36-10/20/24 13:36:59 INFO Test 0-2 API Starting
+2024-37-10/20/24 13:37:00 INFO Test 0-3 API Starting
+2024-37-10/20/24 13:37:00 INFO ====== WebDriver manager ======
+2024-37-10/20/24 13:37:04 INFO Get LATEST chromedriver version for google-chrome
+2024-37-10/20/24 13:37:04 INFO Get LATEST chromedriver version for google-chrome
+2024-37-10/20/24 13:37:04 INFO Driver [C:\Users\Enigma.DESKTOP-2B0LCP9\.wdm\drivers\chromedriver\win64\129.0.6668.100\chromedriver-win32/chromedriver.exe] found in cache
+2024-37-10/20/24 13:37:07 INFO Test 1-1 UI Starting
+2024-37-10/20/24 13:37:14 INFO Test 1-2 UI Starting
+2024-37-10/20/24 13:37:17 INFO Test 1-3 UI Starting
+2024-37-10/20/24 13:37:21 INFO Test 1-4 UI Starting
+2024-37-10/20/24 13:37:26 INFO We find text Form successfully submitted in alert
