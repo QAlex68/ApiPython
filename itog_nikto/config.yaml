@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/
+address_users: https://test-stand.gb.ru/gateway/login
+address_api: https://test-stand.gb.ru/api/users/profile
+login: 'qalex07'
+password: '1837e1afbe'
+count: 5
+bs: 1M
